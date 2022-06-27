@@ -1,3 +1,8 @@
-a = 1
+summ
 
-b = 2
+attach(avengers2)
+summary(appearances)
+  
+plot(avengers2$appearances, avengers2$`years since joining`, main = 'Avenger Appearances',
+     ylab = 'Years Since Join', xlab = 'Number of Appearances')
+abline(lm())
