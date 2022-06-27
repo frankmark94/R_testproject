@@ -1,4 +1,4 @@
-summ
+#Looking at avengers data for sample R project
 
 attach(avengers2)
 summary(appearances)
